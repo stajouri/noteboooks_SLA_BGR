@@ -1,0 +1,90 @@
++ export OMP_NUM_THREADS=
++ OMP_NUM_THREADS=
++ export OMP_PLACES=cores
++ OMP_PLACES=cores
++ python ./Save_gridU_gridV_gridT_Rivers-Copy1.py
+1992
+month 01
+S
+AI
+saving
+saving U_G
+saving V_G
+saving S_G
+month 02
+S
+AI
+saving
+saving U_G
+saving V_G
+saving S_G
+month 03
+S
+AI
+saving
+saving U_G
+saving V_G
+saving S_G
+month 04
+S
+AI
+saving
+saving U_G
+saving V_G
+saving S_G
+month 05
+S
+AI
+saving
+saving U_G
+saving V_G
+saving S_G
+month 06
+S
+AI
+saving
+saving U_G
+saving V_G
+saving S_G
+month 07
+S
+AI
+saving
+saving U_G
+saving V_G
+saving S_G
+month 08
+S
+AI
+saving
+saving U_G
+saving V_G
+saving S_G
+month 09
+S
+AI
+saving
+saving U_G
+saving V_G
+saving S_G
+month 10
+S
+AI
+saving
+saving U_G
+saving V_G
+saving S_G
+month 11
+S
+AI
+saving
+saving U_G
+saving V_G
+saving S_G
+month 12
+S
+AI
+saving
+saving U_G
+saving V_G
+saving S_G

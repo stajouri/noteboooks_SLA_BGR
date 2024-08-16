@@ -1,0 +1,6 @@
++ export OMP_NUM_THREADS=1
++ OMP_NUM_THREADS=1
++ export OMP_PLACES=cores
++ OMP_PLACES=cores
++ python ./Save_gridU_gridV_gridT_Rivers-Copy2.py
+slurmstepd: error: *** JOB 1035211 ON r1i1n4 CANCELLED AT 2024-03-12T17:16:34 DUE TO TIME LIMIT ***

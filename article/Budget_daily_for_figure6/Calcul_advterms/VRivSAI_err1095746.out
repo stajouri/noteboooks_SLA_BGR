@@ -1,0 +1,21 @@
++ export OMP_NUM_THREADS=20
++ OMP_NUM_THREADS=20
++ export OMP_PLACES=cores
++ OMP_PLACES=cores
++ python ./Calcul_VeloRivSAI.py
+/gpfslocalsup/pub/anaconda-py3/2020.11/envs/climate_science/lib/python3.9/contextlib.py:124: UserWarning: Creating scratch directories is taking a surprisingly long time. This is often due to running workers on a network file system. Consider specifying a local-directory to point workers to write scratch data to a local disk.
+  next(self.gen)
+/gpfslocalsup/pub/anaconda-py3/2020.11/envs/climate_science/lib/python3.9/contextlib.py:124: UserWarning: Creating scratch directories is taking a surprisingly long time. This is often due to running workers on a network file system. Consider specifying a local-directory to point workers to write scratch data to a local disk.
+  next(self.gen)
+/gpfslocalsup/pub/anaconda-py3/2020.11/envs/climate_science/lib/python3.9/contextlib.py:124: UserWarning: Creating scratch directories is taking a surprisingly long time. This is often due to running workers on a network file system. Consider specifying a local-directory to point workers to write scratch data to a local disk.
+  next(self.gen)
+/gpfslocalsup/pub/anaconda-py3/2020.11/envs/climate_science/lib/python3.9/contextlib.py:124: UserWarning: Creating scratch directories is taking a surprisingly long time. This is often due to running workers on a network file system. Consider specifying a local-directory to point workers to write scratch data to a local disk.
+  next(self.gen)
+/gpfslocalsup/pub/anaconda-py3/2020.11/envs/climate_science/lib/python3.9/contextlib.py:124: UserWarning: Creating scratch directories is taking a surprisingly long time. This is often due to running workers on a network file system. Consider specifying a local-directory to point workers to write scratch data to a local disk.
+  next(self.gen)
+/gpfslocalsup/pub/anaconda-py3/2020.11/envs/climate_science/lib/python3.9/contextlib.py:124: UserWarning: Creating scratch directories is taking a surprisingly long time. This is often due to running workers on a network file system. Consider specifying a local-directory to point workers to write scratch data to a local disk.
+  next(self.gen)
+/gpfslocalsup/pub/anaconda-py3/2020.11/envs/climate_science/lib/python3.9/contextlib.py:124: UserWarning: Creating scratch directories is taking a surprisingly long time. This is often due to running workers on a network file system. Consider specifying a local-directory to point workers to write scratch data to a local disk.
+  next(self.gen)
+/gpfslocalsup/pub/anaconda-py3/2020.11/envs/climate_science/lib/python3.9/contextlib.py:124: UserWarning: Creating scratch directories is taking a surprisingly long time. This is often due to running workers on a network file system. Consider specifying a local-directory to point workers to write scratch data to a local disk.
+  next(self.gen)
